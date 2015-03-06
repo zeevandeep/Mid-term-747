@@ -14,7 +14,7 @@ public class CourseMeeting {
 	 }
 	 public String toString(){
 		 String  str;
-		 //str = "CSCE" + "109" + "Matthews";
+		 //str = "CSCE" + "824" + "Farkas";
 		 str = room + day + time + course.toString();
 		 return str;
 	 }
